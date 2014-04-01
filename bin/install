@@ -1,5 +1,5 @@
 #!/bin/bash -eu
-
+echo "&#44592;&#51088;&#36789;" 
 case "$1" in
   -v|--version)
     version="$2"
